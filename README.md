@@ -46,7 +46,7 @@ printf("The process id of parent function:
 return 0; }
 ```
 
-##OUTPUT
+## OUTPUT:
 ![365880154-136e08db-7a35-4669-bbd9-241cbb9a70dd](https://github.com/user-attachments/assets/641dfbfa-821c-4d3a-b626-9023211cd2ac)
 
 
@@ -83,7 +83,7 @@ exit(0);}
 }
 ```
 
-##OUTPUT
+## OUTPUT:
 ![365880373-0cd289a4-eb79-4aed-bd44-36c1da7d50e0](https://github.com/user-attachments/assets/37bec2bb-5e0f-4c5c-bb95-6f037c37ebf8)
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
@@ -113,7 +113,7 @@ printf("Running ps with execlp. Now with path specified\n");
         exit(0);}
 ```
 
-##OUTPUT
+## OUTPUT:
 ![365880579-f141de91-aab1-4d75-85b8-41d909412075](https://github.com/user-attachments/assets/bb5c2d9b-f6ca-4a59-b63c-a62600d93f7f)
 
 
